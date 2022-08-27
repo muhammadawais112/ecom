@@ -1,0 +1,15 @@
+* {
+    border: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.styleNav {
+    background-color: #E3E6F3;
+    box-shadow: 0px spx 15px rgb(0, 0, 0.06);
+}
+
+
+.styleText:hover {
+    color: #088788 !important
+}

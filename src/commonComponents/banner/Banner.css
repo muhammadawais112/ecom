@@ -1,0 +1,20 @@
+* {
+    border: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.bgImage {
+    background-image: url("../../assets/hero4.png");
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+}
+
+
+#styleBtn{
+    position: relative;
+    left: 130px;
+    top: 75px;
+    font-size: 30px;
+}
